@@ -1,3 +1,8 @@
+[![img contact](https://github.com/dunoyef/Rapid/blob/main/img/readme.PNG)](https://dunoyef.github.io/Rapid/)
+
+
+
+
 Thanks for downloading this theme!
 
 Theme Name: Rapid
